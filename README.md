@@ -1,6 +1,4 @@
-Of course! Here is a comprehensive README for your "Resume Tailor" GitHub project, based on the provided App.jsx file.
-
-Resume Tailor AI
+Mr Tailor
 
 Resume Tailor AI is a powerful, locally-run web application designed to help job seekers effortlessly customize their resumes and cover letters for specific job applications. By leveraging the power of OpenAI's GPT models, this tool analyzes your master CV and a job description to generate perfectly tailored application documents, giving you a competitive edge in your job search.
 
