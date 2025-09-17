@@ -156,12 +156,3 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Google Search Suggestions
-Display of Search Suggestions is required when using Grounding with Google Search. Learn more
-github readme best practices for react project
-how to write a good github readme
-example of a good github readme for a web application
